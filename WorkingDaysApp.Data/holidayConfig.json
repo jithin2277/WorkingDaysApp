@@ -1,0 +1,22 @@
+[
+  {
+    "dayMonth": "01/01",
+    "description": "New Year's Day",
+    "isObserved": true,
+    "occurrence": null
+  },
+  {
+    "dayMonth": "25/04",
+    "description": "ANZAC Day",
+    "isObserved": false,
+    "occurrence": null
+  },
+  {
+    "dayMonth": null,
+    "description": "Queen's Birthday",
+    "isObserved": false,
+    "occurrence": "6|2|2" // "Month|which day of week|Occurrence", e.g: for 2 Monday of June the format will be 6|2|2 since 6: June is 6th month, 2: Monday is second day of week and 2: 2nd occurrence of Monday
+  }
+]
+
+
